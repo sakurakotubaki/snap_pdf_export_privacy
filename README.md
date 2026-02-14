@@ -1,0 +1,2 @@
+# snap_pdf_export_privacy
+SnapPDFExpertのプライバシーポリシー
